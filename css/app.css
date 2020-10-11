@@ -1,0 +1,44 @@
+.navbar{
+    background-color: rgb(4, 212, 66);
+}
+.nav-link{
+    color: white;
+    background-color: yellowgreen;
+}
+
+.navbar-toggler{    
+    color: white;
+    background-color: yellowgreen;
+}
+
+.nav-link:hover{
+    color:brown;
+    background-color: yellow;
+}
+
+.navbar-brand{
+    color: white;
+}
+.dropdown-menu{
+    color: white;
+    background-color: yellowgreen;
+}
+.dropdown-item{
+    color: white;
+    background-color: yellowgreen;
+}
+.dropdown-item:hover{
+    color:brown;
+    background-color: yellow;
+}
+.btn{
+    background-color: rgb(4, 212, 66);
+    color:white;
+}
+.btn:hover{
+    background-color: rgb(174, 212, 4);
+    color:white;
+}
+.card{
+    margin:15px 5px;box-shadow: 0 0 10px rgba(0,0,0,0.12);
+}
